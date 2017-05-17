@@ -14,7 +14,7 @@ Python requirements can be installed with ```pip```
     
 ## Usage
 
-Secrets such users and passwords are handles via environment variables for simplicity. 
+Secrets such as users and passwords are handled via environment variables for simplicity. 
 
 Required ones are: 
 
