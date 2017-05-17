@@ -49,6 +49,5 @@ This will export all the metrics in the following ```json```
 ```
 
 
-
 ----------
 Author: Pedro Diaz <pedro.diaz@tieto.com>
