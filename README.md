@@ -2,6 +2,10 @@
 
 Simple script that ships all project metrics from SonarQube to InfluxDB.
 
+This can be later graph with (Grafana)[https://grafana.com/]
+
+<img src="images/grafana.png">
+
 ## Requirements
 
 - Python >= 3
